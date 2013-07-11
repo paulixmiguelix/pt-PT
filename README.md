@@ -1,0 +1,4 @@
+pt-PT
+=====
+
+Portuguese translation
